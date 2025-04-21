@@ -11,16 +11,25 @@ Beyond technology, I am developing **EAO**, a concept that unifies science, spir
 - Philosophical and spiritual structures applied to the real world  
 
 💼 **Ongoing Projects:**  
-- **EAO:** A concept that seeks to unify science, philosophy, and spirituality  
+- **EAO:** A concept that seeks to unify science, philosophy, and spirituality
+- **IPBC** – Intelligent Protocol for Banking Compliance. A vision for securing and automating internal financial processes.
+- **KodeKTep** – A layered file encryption and camouflaging system focused on privacy and deception engineering.
+- **GlimpseFS** – A clean mirror of your filesystem, filtering sensitive content and scrubbing metadata. 
 - **Fintech and digital payments:** Developing secure and scalable solutions  
-- **Network and server infrastructure:** High-performance applications  
+- **Network and server infrastructure:** High-performance applications
 
+⚙️ **Tech Focus Areas:**
+- Privacy-oriented tooling & cryptography
+- Secure automation pipelines in finance
+- Python / FastAPI / Shell scripting / NodeJS / C++ / xHarbour / TCL/TK
+- Embedded systems, ESP32, and mesh communication
+- Experimental metaphysical systems and digital mysticism
+- Blockchain and descentralized networks
+- Cryptoassets and Cryptocurrencies
+
+  
 📫 **How to Reach Me:**  
-- 🌐 LinkedIn: [linkedin.com/in/psdurco](https://www.linkedin.com/in/psdurco/)  
-
-⚡ **Fun Facts:**  
-- I have developed hardware, software, and robust infrastructures without a formal academic degree.  
-- Cats are part of my daily life and are my loyal companions.  
-- I believe technology is the key to the next stage of human evolution.  
+- LinkedIn: [linkedin.com/in/psdurco](https://www.linkedin.com/in/psdurco/)
+- GitHub: [GitHub Projects](https://github.com/psdurco?tab=repositories)  
 
 🚀 **"Technology gives power, but true knowledge transforms."**  
